@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: thomasmatecki-flask-starter-0b7
+package: thomasmatecki/flask-starter-0b7
